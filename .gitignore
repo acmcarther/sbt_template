@@ -1,0 +1,5 @@
+# Compiled stuff
+/target
+
+# Sbt stuff
+/project
